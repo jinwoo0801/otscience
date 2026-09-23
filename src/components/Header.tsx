@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl";
 import { Menu, X, ChevronDown, Mail } from "lucide-react";
 import { AnimatePresence, motion } from "motion/react";
 import { Link, usePathname } from "@/i18n/navigation";
-import { nav, site } from "@/data/site";
+import { nav } from "@/data/site";
 import Logo from "./Logo";
 import LanguageSwitcher from "./LanguageSwitcher";
 
@@ -60,7 +60,7 @@ export default function Header() {
 
         {/* Desktop nav */}
         <nav className="hidden items-center gap-1 lg:flex" aria-label="Main">
-          {nav.map((item) => (
+          {nav.filter((item) => item.key !== "contact").map((item) => (
             <div key={item.key} className="group relative">
               <Link
                 href={item.href}
@@ -102,8 +102,8 @@ export default function Header() {
 
         <div className="hidden items-center gap-2 lg:flex">
           <LanguageSwitcher inverted={inverted} />
-          <a
-            href={`mailto:${site.email}`}
+          <Link
+            href="/contact"
             className={`inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold transition ${
               inverted
                 ? "bg-white text-navy-900 hover:bg-white/90"
@@ -112,7 +112,7 @@ export default function Header() {
           >
             <Mail className="h-4 w-4" />
             {t("contact")}
-          </a>
+          </Link>
         </div>
 
         {/* Mobile toggle */}
@@ -142,7 +142,7 @@ export default function Header() {
           >
             <div className="container-x flex-1 overflow-y-auto py-6">
               <ul className="divide-y divide-ink-100">
-                {nav.map((item) => (
+                {nav.filter((item) => item.key !== "contact").map((item) => (
                   <li key={item.key}>
                     {item.children ? (
                       <>
@@ -208,13 +208,13 @@ export default function Header() {
                 <LanguageSwitcher variant="grid" />
               </div>
 
-              <a
-                href={`mailto:${site.email}`}
+              <Link
+                href="/contact"
                 className="mt-8 flex items-center justify-center gap-2 rounded-2xl bg-navy-900 px-5 py-4 text-base font-semibold text-white"
               >
                 <Mail className="h-5 w-5" />
                 {t("contact")}
-              </a>
+              </Link>
             </div>
           </motion.div>
         )}

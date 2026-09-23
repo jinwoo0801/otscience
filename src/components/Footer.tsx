@@ -79,7 +79,12 @@ export default function Footer() {
       <div className="border-t border-white/10">
         <div className="container-x flex flex-col gap-2 py-5 text-xs text-white/40 sm:flex-row sm:items-center sm:justify-between">
           <p>{t("copyright", { year })}</p>
-          <p>{site.nameKo} · {site.name} Co., Ltd.</p>
+          <p className="flex items-center gap-4">
+            <Link href="/privacy" className="font-medium text-white/60 transition hover:text-white">
+              {t("privacy")}
+            </Link>
+            <span>{site.nameKo} · {site.name} Co., Ltd.</span>
+          </p>
         </div>
       </div>
     </footer>

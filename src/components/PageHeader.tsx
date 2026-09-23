@@ -7,7 +7,7 @@ import { asset } from "@/lib/asset";
 type Props = {
   title: string;
   subtitle?: string;
-  sectionKey: "company" | "business" | "technical" | "careers";
+  sectionKey: "company" | "business" | "technical" | "careers" | "contact" | "privacy";
   currentHref: string;
   image?: string;
 };

@@ -177,13 +177,13 @@ export default async function HomePage(props: LocaleParams) {
                 <p className="mt-3 text-white/70">{t("contact.description")}</p>
               </div>
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-                <a
-                  href={`mailto:${site.email}`}
+                <Link
+                  href="/contact"
                   className="inline-flex items-center justify-center gap-2 rounded-full bg-white px-5 py-3 text-sm font-semibold text-navy-900 transition hover:bg-mint-100"
                 >
                   <Mail className="h-4 w-4" />
                   {t("contact.cta")}
-                </a>
+                </Link>
                 <a
                   href={`tel:${site.tel}`}
                   className="inline-flex items-center justify-center gap-2 rounded-full border border-white/30 px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"

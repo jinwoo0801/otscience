@@ -21,7 +21,8 @@
     "language": "Select language",
     "openMenu": "Open menu",
     "closeMenu": "Close menu",
-    "careers": "Careers"
+    "careers": "Careers",
+    "privacy": "Privacy Policy"
   },
   "Common": {
     "readMore": "Read more",
@@ -99,7 +100,7 @@
     "contact": {
       "title": "Need advice on your plating process?",
       "description": "Chemicals, equipment, precious-metals recovery. Whatever the question, get in touch.",
-      "cta": "Email us",
+      "cta": "Contact us",
       "call": "Call us"
     }
   },
@@ -437,7 +438,8 @@
     "address": "32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea",
     "copyright": "© {year} OT SCIENCE Co., Ltd. All rights reserved.",
     "quickLinks": "Quick links",
-    "contact": "Contact"
+    "contact": "Contact",
+    "privacy": "Privacy Policy"
   },
   "NotFound": {
     "title": "Page not found",
@@ -514,5 +516,125 @@
     "ctaTitle": "Want to work with us?",
     "ctaDesc": "Send your resume to the email below. Our office is in Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea.",
     "ctaButton": "Apply by email"
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch",
+    "intro": "Ask us about chemicals, precious-metals recovery, plating equipment or R&D collaboration. We reply within one to two business days.",
+    "infoTitle": "Contact details",
+    "hours": "Business hours",
+    "hoursValue": "Mon–Fri 09:00–18:00 KST (closed on Korean public holidays)",
+    "form": {
+      "name": "Name",
+      "company": "Company",
+      "email": "Email",
+      "phone": "Phone",
+      "category": "Inquiry type",
+      "categories": [
+        "Plating chemicals",
+        "Precious metals recovery & refining",
+        "Plating equipment & jigs",
+        "R&D collaboration",
+        "Careers",
+        "Other"
+      ],
+      "message": "Message",
+      "messagePlaceholder": "Product name, application, quantity and your current process help us answer precisely.",
+      "consent": "I agree to the collection and use of my personal data.",
+      "consentLink": "Read the privacy policy",
+      "required": "required",
+      "submit": "Send inquiry",
+      "sending": "Sending…",
+      "successTitle": "Your inquiry has been received.",
+      "successDesc": "We will reply to the email address you provided.",
+      "errorTitle": "Sending failed.",
+      "errorDesc": "Please try again later or email us directly at the address below.",
+      "mailFallback": "Your mail app will open. Review the message and press send.",
+      "another": "Send another inquiry",
+      "invalidEmail": "Please check the email format.",
+      "subjectPrefix": "[Website inquiry]"
+    }
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "subtitle": "Privacy Policy",
+    "effective": "Effective date: October 1, 2026",
+    "intro": "OT SCIENCE Co., Ltd. (the \"Company\") establishes and discloses this privacy policy in accordance with the Personal Information Protection Act of Korea in order to protect users' personal data and handle related concerns promptly.",
+    "sections": [
+      {
+        "title": "1. Personal data collected and how",
+        "body": [
+          "The Company collects the following data through the website contact form and job applications.",
+          "Contact form: name, email, company, phone number, message",
+          "Job applications: name, email, phone number, and information contained in the resume and work history",
+          "Method: website contact form, email"
+        ]
+      },
+      {
+        "title": "2. Purpose of collection and use",
+        "body": [
+          "Responding to inquiries and providing quotations and technical consultation",
+          "Conducting recruitment and notifying results",
+          "Service notices and customer support"
+        ]
+      },
+      {
+        "title": "3. Retention period",
+        "body": [
+          "Inquiry data: retained for up to 1 year after the inquiry is resolved, then destroyed",
+          "Job application data: retained for up to 180 days after the recruitment process ends, then destroyed (destroyed immediately upon the applicant's request)",
+          "Where retention is required by law, data is kept for the period prescribed by that law."
+        ]
+      },
+      {
+        "title": "4. Provision to third parties",
+        "body": [
+          "The Company does not provide personal data to third parties, except with the user's prior consent or where required by law."
+        ]
+      },
+      {
+        "title": "5. Outsourcing of processing",
+        "body": [
+          "The Company may use an external form service to receive website inquiries; in that case the processor and the outsourced task are disclosed in this policy.",
+          "Email sending and receiving: the Company's email service provider"
+        ]
+      },
+      {
+        "title": "6. Rights of data subjects",
+        "body": [
+          "Users may at any time request access to, correction or deletion of, or suspension of processing of their personal data.",
+          "Requests can be made to the privacy officer below by email or phone, and the Company will act without delay."
+        ]
+      },
+      {
+        "title": "7. Destruction procedure and method",
+        "body": [
+          "Personal data is destroyed without delay once the retention period expires or the purpose is achieved.",
+          "Electronic files are deleted irrecoverably; paper documents are shredded or incinerated."
+        ]
+      },
+      {
+        "title": "8. Security measures",
+        "body": [
+          "Minimization and management of access rights, access control",
+          "Training of staff who handle personal data",
+          "Installation and periodic inspection of security software"
+        ]
+      },
+      {
+        "title": "9. Privacy officer",
+        "body": [
+          "Name: Kim Young-chul (CEO)",
+          "Email: sales@otscience.co.kr",
+          "Phone: +82-31-355-9121"
+        ]
+      },
+      {
+        "title": "10. Changes to this policy",
+        "body": [
+          "This policy applies from the effective date. Changes due to laws or policy will be announced on the website."
+        ]
+      }
+    ]
   }
 }

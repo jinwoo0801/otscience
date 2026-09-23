@@ -36,12 +36,22 @@ messages/            언어별 문구 (ko.json, en.json, zh.json, ja.json)
 public/images/       사이트 이미지
 public/docs/         기술자료 파일을 두는 곳 (다운로드용)
 src/app/(root)/      루트(/) 언어 감지·리다이렉트 페이지
-src/app/[locale]/    실제 페이지 (홈, 회사소개 4, 사업분야 4, 기술자료)
+src/app/[locale]/    실제 페이지 (홈, 회사소개 4, 사업분야 4, 기술자료, 채용, 문의하기, 개인정보처리방침)
 src/components/      Header, Footer, Hero, PageHeader, Reveal 등
 src/data/site.ts     연락처·주소·메뉴 구조
 src/data/chemicals.ts 약품 공정표, 분석장비 목록, 기술자료 목록
+src/data/careers.ts  채용 공고 목록
 src/i18n/            next-intl 라우팅 설정
 ```
+
+## 문의하기 폼 연결
+
+정적 사이트라 폼 데이터를 받을 서버가 없습니다. 두 가지 방식 중 하나로 동작합니다.
+
+1. **Formspree 연결 (권장)**: https://formspree.io 에서 무료 폼을 만들고 엔드포인트를 환경변수에 넣습니다.
+   - 로컬: `.env.local`에 `NEXT_PUBLIC_FORM_ENDPOINT=https://formspree.io/f/xxxx`
+   - GitHub Pages: 저장소 Settings → Secrets and variables → Actions → Variables에 `FORM_ENDPOINT` 추가
+2. **미설정 시**: 방문자의 메일 앱이 열리고 입력한 내용이 채워진 상태로 `sales@otscience.co.kr` 앞으로 보내집니다.
 
 ## 자주 하는 수정
 

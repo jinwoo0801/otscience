@@ -45,6 +45,8 @@ jobs:
           enablement: true
 
       - name: Build
+        env:
+          NEXT_PUBLIC_FORM_ENDPOINT: ${{ vars.FORM_ENDPOINT }}
         run: pnpm build
 
       - uses: actions/upload-pages-artifact@v3
