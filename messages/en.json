@@ -1,0 +1,518 @@
+{
+  "Meta": {
+    "siteName": "OT SCIENCE",
+    "title": "OT SCIENCE | Plating Chemicals · Precious Metals Recovery · Plating Equipment",
+    "description": "Since 2002, OT SCIENCE has served the surface-treatment industry with plating chemicals, precious-metals recovery and refining, plating equipment and jigs, and in-house R&D."
+  },
+  "Nav": {
+    "home": "Home",
+    "company": "Company",
+    "greeting": "Greeting",
+    "history": "History",
+    "policy": "Management Policy",
+    "location": "Location",
+    "business": "Business",
+    "chemicals": "Plating Chemicals",
+    "metals": "Precious Metals Recovery",
+    "equipment": "Plating Equipment",
+    "rnd": "R&D",
+    "technical": "Technical Data",
+    "contact": "Contact",
+    "language": "Select language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "careers": "Careers"
+  },
+  "Common": {
+    "readMore": "Read more",
+    "viewAll": "View all",
+    "home": "Home",
+    "contactUs": "Contact us",
+    "since": "Founded in {year}",
+    "ceo": "CEO",
+    "address": "Address",
+    "tel": "Tel",
+    "fax": "Fax",
+    "email": "Email"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Since 2002 · Plating Specialists",
+      "title": "Anyone! Anywhere! Anytime!",
+      "subtitle": "With Plating Workers",
+      "description": "Chemicals, equipment and precious-metals recovery for the plating floor. OT SCIENCE is the technology partner that grows together with plating workers.",
+      "primaryCta": "Explore our business",
+      "secondaryCta": "About us"
+    },
+    "stats": {
+      "founded": "Founded",
+      "foundedValue": "2002",
+      "iso": "Quality certified",
+      "isoValue": "ISO 9001",
+      "patents": "Patents · Utility models · Designs",
+      "patentsValue": "6+",
+      "lab": "In-house research institute",
+      "labValue": "Metallic Materials"
+    },
+    "business": {
+      "eyebrow": "Business",
+      "title": "Everything the plating floor needs",
+      "description": "Equipment and jigs, chemicals, and recovery of precious metals from rinse water. Four businesses that cover the whole surface-treatment process.",
+      "chemicals": {
+        "title": "Plating Chemicals",
+        "en": "Plating Chemicals",
+        "description": "We develop and manufacture additives for every step from pre-treatment to post-treatment."
+      },
+      "metals": {
+        "title": "Precious Metals Recovery & Refining",
+        "en": "Precious Metals Recovery",
+        "description": "Gold, silver and palladium recovered and refined by electrolytic and adsorption systems."
+      },
+      "equipment": {
+        "title": "Plating Equipment & Jigs",
+        "en": "Plating Equipments & Jigs",
+        "description": "Selective plating jigs, plating anodes and wafer bump plating machines, designed and built in-house."
+      },
+      "rnd": {
+        "title": "R&D",
+        "en": "R&D",
+        "description": "Our in-house metallic materials research institute develops technology tailored to customer needs."
+      }
+    },
+    "about": {
+      "eyebrow": "About OT SCIENCE",
+      "title": "A partner for surface treatment, the backbone of manufacturing",
+      "description": "Surface treatment (plating) is designated as one of Korea's root industries alongside casting, molds, welding, plastic working and heat treatment. OT SCIENCE manufactures the equipment, jigs and chemicals a plating process needs, and recovers and refines the precious metals contained in its rinse water.",
+      "cta": "Read the greeting"
+    },
+    "philosophy": {
+      "eyebrow": "Management Philosophy",
+      "title": "A healthy 100-year company, a place to build lives",
+      "cta": "Management policy"
+    },
+    "technical": {
+      "eyebrow": "Technical Materials",
+      "title": "We develop technology that meets customer needs",
+      "description": "Browse product data sheets and process guides.",
+      "cta": "Technical data"
+    },
+    "contact": {
+      "title": "Need advice on your plating process?",
+      "description": "Chemicals, equipment, precious-metals recovery. Whatever the question, get in touch.",
+      "cta": "Email us",
+      "call": "Call us"
+    }
+  },
+  "Company": {
+    "sectionTitle": "Company",
+    "sectionEn": "Company",
+    "Greeting": {
+      "title": "Greeting",
+      "subtitle": "Greeting",
+      "lead": "Thank you for visiting the OT SCIENCE website.",
+      "p1": "Surface treatment (plating) is designated as one of Korea's root industries, together with casting, molds, welding, plastic working and heat treatment. Root industries are the basic industries that produce parts and finished products, and they form the foundation of manufacturing competitiveness.",
+      "p2": "Plating requires equipment and jigs, the chemicals applied to the surface of the workpiece, water to rinse the workpiece, and then a wastewater treatment facility to purify the rinse water contaminated by those chemicals.",
+      "p3": "Our company manufactures and imports the equipment, jigs and chemicals used in the plating process, and we also recover and refine the precious metals (gold, silver and palladium) contained in the rinse water generated during plating.",
+      "p4": "Drawing on the skills and experience we have accumulated on the plating floor, we promise to develop and manufacture technology that reflects our customers' needs and to contribute to the growth of the surface-treatment industry.",
+      "closing": "Thank you.",
+      "signature": "Kim Young-chul, CEO, OT SCIENCE Co., Ltd.",
+      "imageAlt": "OT SCIENCE headquarters and metallic materials research institute"
+    },
+    "History": {
+      "title": "History",
+      "subtitle": "History",
+      "lead": "Since our foundation in 2002, OT SCIENCE has walked step by step with a single-minded determination to endure, and we will keep striding forward to become a healthy 100-year company.",
+      "p1": "For a company to endure, it needs the love of its customers and the creative, voluntary and dedicated cooperation of its employees and partners. We will listen closely to the needs of a changing era, reflect them on the shop floor, and turn them into visible results.",
+      "items": [
+        {
+          "year": "2026",
+          "month": "01",
+          "title": "New Vision Declaration",
+          "note": ""
+        },
+        {
+          "year": "2025",
+          "month": "12",
+          "title": "Designated a community contribution company by Hwaseong Chamber of Commerce",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "11",
+          "title": "Designated a member of the IBK Bank corporate Family",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "03",
+          "title": "National Tax Service Commissioner Award as a model taxpayer",
+          "note": ""
+        },
+        {
+          "year": "2022",
+          "month": "07",
+          "title": "Red Cross Membership Merit Honor Award",
+          "note": ""
+        },
+        {
+          "year": "2021",
+          "month": "12",
+          "title": "Certified as an honest taxpaying company by Hwaseong City",
+          "note": ""
+        },
+        {
+          "year": "2017",
+          "month": "08",
+          "title": "ISO 9001:2015 certified",
+          "note": ""
+        },
+        {
+          "year": "2016",
+          "month": "03",
+          "title": "Started exporting plating chemicals",
+          "note": "Sales expansion"
+        },
+        {
+          "year": "2011",
+          "month": "03",
+          "title": "Started development and sales of plating chemicals",
+          "note": "Product line expansion"
+        },
+        {
+          "year": "2007",
+          "month": "01",
+          "title": "New factory built",
+          "note": "Relocated plant and research institute"
+        },
+        {
+          "year": "2006",
+          "month": "04",
+          "title": "Patent filed (selective plating jig)",
+          "note": "Product line expansion"
+        },
+        {
+          "year": "2005",
+          "month": "05",
+          "title": "Changwon office opened",
+          "note": "Nationwide sales network"
+        },
+        {
+          "year": "2004",
+          "month": "04",
+          "title": "Selected for SMBA technology innovation project",
+          "note": "R&D funding"
+        },
+        {
+          "year": "2003",
+          "month": "11",
+          "title": "Exhibited at the Korea Venture Start-up Expo",
+          "note": "Sales expansion"
+        },
+        {
+          "year": "2002",
+          "month": "07",
+          "title": "Patent filed (precious metals recovery system)",
+          "note": "Precious metals recovery business launched"
+        },
+        {
+          "year": "2002",
+          "month": "04",
+          "title": "OT SCIENCE Co., Ltd. founded",
+          "note": ""
+        }
+      ]
+    },
+    "Policy": {
+      "title": "Management Policy",
+      "subtitle": "Management Policy",
+      "motto": {
+        "title": "Company Motto",
+        "en": "The Motto of Company",
+        "items": [
+          {
+            "title": "Specially different",
+            "en": "남 다르게!"
+          },
+          {
+            "title": "Better than",
+            "en": "보다 더 낫게!"
+          },
+          {
+            "title": "Looking all around and ahead",
+            "en": "밖과 앞을 내다보며!"
+          }
+        ],
+        "quote": "Create new and valuable things",
+        "quoteEn": "새로운 가치를 만들어 나간다"
+      },
+      "philosophy": {
+        "title": "Management Philosophy",
+        "en": "Management Philosophy",
+        "lead": "To be a long-lived, healthy company that is a place to build lives.",
+        "leadEn": "삶의 터전으로서의 건강한 100년 기업을 지향한다",
+        "items": [
+          {
+            "title": "Small hidden champion",
+            "desc": "A strong, focused small company"
+          },
+          {
+            "title": "Harmonious company culture",
+            "desc": "Well-balanced and energetic workplace"
+          },
+          {
+            "title": "Serve our communities",
+            "desc": "Contribute to the nation and society"
+          }
+        ]
+      },
+      "quality": {
+        "title": "Quality Management Policy",
+        "en": "Quality Management Policy",
+        "text": "As a company that manufactures and sells plating additives, OT SCIENCE has built a quality management system for manufacturing and services based on ISO 9001. By operating it properly and efficiently we provide the best products and services to our customers, and ultimately maximize the value of the company by satisfying their needs.",
+        "items": [
+          {
+            "title": "Zero process defects",
+            "desc": "ZERO Defect"
+          },
+          {
+            "title": "Zero customer claims",
+            "desc": "ZERO Claim"
+          },
+          {
+            "title": "Zero industrial accidents",
+            "desc": "ZERO Safety Accident"
+          }
+        ]
+      },
+      "environment": {
+        "title": "Environmental Management Policy",
+        "en": "Environmental Management Policy",
+        "text": "As a manufacturer and seller of plating additives, OT SCIENCE installs and effectively operates preventive facilities to minimize the environmental impact of its manufacturing processes, and complies with all applicable laws and regulations.",
+        "items": [
+          {
+            "title": "Zero environmental accidents",
+            "desc": "ZERO Environmental Accident"
+          },
+          {
+            "title": "Minimize pollutant emissions",
+            "desc": "Minimization of Environmental Pollutants"
+          },
+          {
+            "title": "Everyday energy saving",
+            "desc": "Continuous Energy Saving"
+          }
+        ]
+      }
+    },
+    "Location": {
+      "title": "Location",
+      "subtitle": "Location",
+      "companyName": "OT SCIENCE Co., Ltd.",
+      "address": "(18542) 32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea",
+      "addressEn": "(18542) 경기도 화성시 마도면 마도공단로 2길 32, 마도지방산업단지 4B-7L",
+      "openMap": "Open in Google Maps",
+      "publicTransit": "By public transport",
+      "bus1": "Bus 330-1",
+      "bus1Desc": "Get off at Mado Industrial Complex stop, then walk about 861 m",
+      "bus2": "Bus 400-4",
+      "bus2Desc": "Get off at Ssangsong 2-ri stop, then walk about 461 m",
+      "byCar": "By car",
+      "byCarDesc": "32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si (lot no. 666-4 Ssangsong-ri)",
+      "mapTitle": "Map of OT SCIENCE location"
+    }
+  },
+  "Business": {
+    "sectionTitle": "Business",
+    "sectionEn": "Business",
+    "certifications": "Certifications & Patents",
+    "Chemicals": {
+      "title": "Plating Chemicals",
+      "subtitle": "Specially Designed Plating Chemicals",
+      "intro": "From pre-treatment to post-treatment, we develop and manufacture additives optimized for each step of the plating process. We hold a hazardous chemicals manufacturing license, ISO 9001:2015 and INNO-BIZ certification.",
+      "certs": {
+        "hazmat": "Hazardous Chemicals Manufacturing License",
+        "iso": "ISO 9001:2015",
+        "innobiz": "INNO-BIZ"
+      },
+      "table": {
+        "process": "Process",
+        "chemicals": "Chemicals",
+        "products": "Product name"
+      },
+      "processes": {
+        "pre": {
+          "title": "Pre-Treatment",
+          "en": "전처리"
+        },
+        "under": {
+          "title": "Under-Plating",
+          "en": "하지도금"
+        },
+        "finish": {
+          "title": "Finishing Plating",
+          "en": "도금"
+        },
+        "post": {
+          "title": "Post-Treatment",
+          "en": "후처리"
+        }
+      }
+    },
+    "Metals": {
+      "title": "Precious Metals Recovery & Refining",
+      "subtitle": "Precious Metals Recovery and Refining",
+      "intro": "We recover and refine gold, silver, palladium and other precious metals contained in plating rinse water using electrolytic and adsorption systems. This is the founding business of OT SCIENCE, launched in 2002 with our recovery system patent.",
+      "certs": {
+        "recycle": "Comprehensive Waste Recycling License",
+        "hazmat": "Hazardous Chemicals Use License",
+        "patent1": "Patent No. 10-0638xxx",
+        "patent2": "Utility Model No. 20-290xxx",
+        "patent3": "Utility Model No. 20-420xxx",
+        "patent4": "Utility Model No. 20-436xxx"
+      },
+      "electrolytic": {
+        "title": "Electrolytic Recovery System",
+        "en": "Electrolytic Type of Recovery System",
+        "desc": "Precious-metal ions in rinse water are deposited on the cathode by electrolysis and recovered at high purity."
+      },
+      "adsorption": {
+        "title": "Adsorption Recovery System",
+        "en": "Adsorption Type of Recovery System",
+        "desc": "Precious metals are captured on adsorbents such as ion-exchange resin and recovered through a refining process."
+      }
+    },
+    "Equipment": {
+      "title": "Plating Equipment",
+      "subtitle": "Specially Designed Plating Equipments",
+      "intro": "We design and build jigs for Au/Ag/Pd/Rh selective plating of connector products, platinum-plated or iridium-oxide-coated anodes, and wafer bump plating machines for Au, Ni and Cu.",
+      "certs": {
+        "design": "Design Registration No. 30-0436xxx",
+        "patent": "Utility Model No. 20-420xxx"
+      },
+      "items": [
+        {
+          "title": "Selective Plating Jigs",
+          "en": "Selective Plating Jigs",
+          "desc": "Applied to Au/Ag/Pd/Rh selective plating of connector products."
+        },
+        {
+          "title": "Plating Anodes",
+          "en": "Platinum Plated or Iridium Coated Anode",
+          "desc": "Platinum-plated or iridium-oxide-coated anodes built to order."
+        },
+        {
+          "title": "Wafer Bump Plating Machine",
+          "en": "Wafer Bump Plating Machine",
+          "desc": "Wafer bump plating machines for Au, Ni and Cu plating."
+        }
+      ],
+      "application": "Application : Au/Ag/Pd/Rh Selective Plating for Connector products",
+      "jigs": "Jigs",
+      "jigsEn": "Jigs Photo",
+      "plated": "Plated Products",
+      "platedEn": "Plated Products Photo"
+    },
+    "Rnd": {
+      "title": "R&D",
+      "subtitle": "Research & Development",
+      "intro": "At our in-house metallic materials research institute we study chemicals and processes tailored to customer needs, building on the experience gained on the plating floor. A full range of analytical instruments supports product development and quality control.",
+      "cert": "In-house Metallic Materials Research Institute",
+      "analyzers": "Analytical Instruments",
+      "analyzersEn": "Analyzers"
+    }
+  },
+  "Technical": {
+    "title": "Technical Data",
+    "subtitle": "Technical Materials",
+    "intro": "Product data sheets and process guides. If you cannot find what you need, please contact us by email.",
+    "empty": "Technical documents are being prepared.",
+    "emptyDesc": "Request product specifications or process guides by email and we will send them promptly.",
+    "request": "Request documents",
+    "download": "Download",
+    "date": "Date",
+    "name": "Document"
+  },
+  "Footer": {
+    "ceo": "CEO Kim Young-chul",
+    "address": "32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea",
+    "copyright": "© {year} OT SCIENCE Co., Ltd. All rights reserved.",
+    "quickLinks": "Quick links",
+    "contact": "Contact"
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "description": "The page you requested does not exist or has been moved.",
+    "back": "Back to home"
+  },
+  "Careers": {
+    "title": "Careers",
+    "subtitle": "Join OT SCIENCE",
+    "intro": "OT SCIENCE is a technology company that grows together with the plating floor. We are looking for colleagues to learn and build with us in plating chemicals, precious-metals recovery, equipment design and R&D.",
+    "valuesTitle": "How we work",
+    "valuesEn": "Our values",
+    "values": [
+      {
+        "title": "Specially different, better than",
+        "desc": "We respect people who look at real problems on the shop floor and find new ways to solve them."
+      },
+      {
+        "title": "A harmonious, energetic culture",
+        "desc": "In a small but strong team, each person's role and growth is the company's growth."
+      },
+      {
+        "title": "A healthy 100-year company",
+        "desc": "We aim for a stable workplace where people can work together for the long term, not just for short-term results."
+      }
+    ],
+    "fieldsTitle": "Fields",
+    "fieldsEn": "Where you can contribute",
+    "fields": [
+      {
+        "title": "R&D",
+        "desc": "Plating additive development, analysis (ICP-OES, SEM, HPLC), process experiments"
+      },
+      {
+        "title": "Production & Quality",
+        "desc": "Chemical manufacturing, precious-metals recovery operations, ISO 9001 quality control"
+      },
+      {
+        "title": "Technical Sales",
+        "desc": "Product proposals for plating companies at home and abroad, on-site technical support, exports"
+      },
+      {
+        "title": "Design & Fabrication",
+        "desc": "Selective plating jigs, anodes, wafer bump plating equipment design and build"
+      }
+    ],
+    "processTitle": "Process",
+    "processEn": "How to apply",
+    "process": [
+      {
+        "title": "Application",
+        "desc": "Send your resume and work history by email."
+      },
+      {
+        "title": "Interviews",
+        "desc": "A practical interview followed by an interview with the CEO."
+      },
+      {
+        "title": "Offer",
+        "desc": "We agree on terms and a start date."
+      }
+    ],
+    "openingsTitle": "Open positions",
+    "openingsEn": "Current openings",
+    "noOpenings": "There are no open positions at the moment.",
+    "noOpeningsDesc": "We accept applications year-round. Email us your field of interest and resume and we will get back to you.",
+    "department": "Department",
+    "type": "Type",
+    "location": "Location",
+    "deadline": "Deadline",
+    "always": "Rolling",
+    "apply": "Apply",
+    "applySubject": "[Application] OT SCIENCE",
+    "ctaTitle": "Want to work with us?",
+    "ctaDesc": "Send your resume to the email below. Our office is in Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea.",
+    "ctaButton": "Apply by email"
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "Meta": {
+    "siteName": "오티사이언스",
+    "title": "오티사이언스 | 표면처리 약품 · 유가금속 회수 · 도금 장치",
+    "description": "㈜오티사이언스는 2002년 창업 이래 표면처리(도금) 약품 제조, 유가금속 회수 및 정제, 도금 장치 및 지그 제작, 연구개발을 통해 도금 산업의 발전에 기여하고 있습니다."
+  },
+  "Nav": {
+    "home": "홈",
+    "company": "회사소개",
+    "greeting": "인사말",
+    "history": "연혁",
+    "policy": "경영정보",
+    "location": "오시는 길",
+    "business": "사업분야",
+    "chemicals": "표면처리 약품 제조",
+    "metals": "유가금속 회수 및 정제",
+    "equipment": "도금 장치",
+    "rnd": "연구개발",
+    "technical": "기술자료",
+    "contact": "문의하기",
+    "language": "언어 선택",
+    "openMenu": "메뉴 열기",
+    "closeMenu": "메뉴 닫기",
+    "careers": "채용"
+  },
+  "Common": {
+    "readMore": "자세히 보기",
+    "viewAll": "전체 보기",
+    "home": "홈",
+    "contactUs": "문의하기",
+    "since": "{year}년 창업",
+    "ceo": "대표이사",
+    "address": "주소",
+    "tel": "전화",
+    "fax": "팩스",
+    "email": "이메일"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Since 2002 · Plating Specialists",
+      "title": "Anyone! Anywhere! Anytime!",
+      "subtitle": "With Plating Workers",
+      "description": "표면처리(도금) 현장의 약품, 장치, 유가금속 회수까지. 오티사이언스는 도금 현장과 함께 성장하는 기술 파트너입니다.",
+      "primaryCta": "사업분야 보기",
+      "secondaryCta": "회사소개"
+    },
+    "stats": {
+      "founded": "창업",
+      "foundedValue": "2002",
+      "iso": "품질경영 인증",
+      "isoValue": "ISO 9001",
+      "patents": "특허 · 실용신안 · 디자인",
+      "patentsValue": "6+",
+      "lab": "기업부설연구소",
+      "labValue": "금속재료"
+    },
+    "business": {
+      "eyebrow": "Business",
+      "title": "도금 현장에 필요한 모든 것",
+      "description": "설비와 치구, 약품, 그리고 세척수 속 유가금속 회수까지. 표면처리 공정 전체를 아우르는 네 가지 사업을 운영합니다.",
+      "chemicals": {
+        "title": "표면처리 약품 제조",
+        "en": "Plating Chemicals",
+        "description": "전처리부터 후처리까지 공정별 첨가제를 직접 개발·제조합니다."
+      },
+      "metals": {
+        "title": "유가금속 회수 및 정제",
+        "en": "Precious Metals Recovery",
+        "description": "전해·흡착 방식으로 금, 은, 팔라듐을 회수하고 정제합니다."
+      },
+      "equipment": {
+        "title": "도금 장치 및 지그",
+        "en": "Plating Equipments & Jigs",
+        "description": "부분 도금 지그, 도금용 양극, 웨이퍼 범프 도금 장비를 설계·제작합니다."
+      },
+      "rnd": {
+        "title": "연구개발",
+        "en": "R&D",
+        "description": "기업부설 금속재료 연구소에서 고객 니즈에 맞춘 기술을 개발합니다."
+      }
+    },
+    "about": {
+      "eyebrow": "About OT SCIENCE",
+      "title": "뿌리산업의 근간, 표면처리를 위한 파트너",
+      "description": "표면처리(도금)는 주조, 금형, 용접, 소성가공, 열처리와 함께 국가 뿌리산업으로 지정되어 있습니다. 오티사이언스는 도금 공정에 필요한 설비·치구·약품을 제조하고, 도금 과정에서 발생하는 세척수 속 유가금속을 회수·정제합니다.",
+      "cta": "인사말 보기"
+    },
+    "philosophy": {
+      "eyebrow": "Management Philosophy",
+      "title": "삶의 터전으로서의 건강한 100년 기업",
+      "cta": "경영정보 보기"
+    },
+    "technical": {
+      "eyebrow": "Technical Materials",
+      "title": "고객의 니즈에 부합하는 기술을 개발합니다",
+      "description": "제품 기술자료와 공정 가이드를 확인하세요.",
+      "cta": "기술자료 보기"
+    },
+    "contact": {
+      "title": "도금 공정에 대해 상담이 필요하신가요?",
+      "description": "약품, 장치, 유가금속 회수 등 어떤 문의든 편하게 연락해 주세요.",
+      "cta": "이메일 문의",
+      "call": "전화 문의"
+    }
+  },
+  "Company": {
+    "sectionTitle": "회사소개",
+    "sectionEn": "Company",
+    "Greeting": {
+      "title": "인사말",
+      "subtitle": "Greeting",
+      "lead": "㈜오티사이언스 홈페이지를 방문해 주셔서 감사합니다.",
+      "p1": "표면처리(도금)는 주조, 금형, 용접, 소성가공, 열처리와 함께 국가 뿌리산업으로 지정되어 있습니다. 뿌리산업이란 부품 혹은 완제품을 생산하는 기초산업으로서 제조업 경쟁력의 근간이 된다는 의미에서 붙여진 이름입니다.",
+      "p2": "표면처리(도금)를 하려면 우선 설비 및 치구(장치), 피도금물 표면처리에 사용되는 약품(Chemicals), 피도금물을 세척하는 물이 있어야 하고, 다음으로는 약품으로 오염된 세척수를 정수시키는 폐수처리 시설이 있어야 합니다.",
+      "p3": "우리 회사는 표면처리(도금) 공정에서 사용되는 설비 및 치구, 약품을 제작·제조 또는 수입하여 판매하고 있으며, 표면처리 과정에서 발생하는 세척수 내에 함유된 유가금속(금, 은, 팔라듐)을 회수하고 정제하는 사업도 하고 있습니다.",
+      "p4": "그동안 표면처리(도금) 현장에서 축적한 기술과 경험을 활용하여 고객의 니즈를 반영한 기술을 개발·제조하여 표면처리 산업 분야의 발전에 기여할 것을 약속드립니다.",
+      "closing": "감사합니다.",
+      "signature": "㈜오티사이언스 대표이사 김영철",
+      "imageAlt": "오티사이언스 본사 및 부설 금속재료 연구소 전경"
+    },
+    "History": {
+      "title": "연혁",
+      "subtitle": "History",
+      "lead": "㈜오티사이언스는 2002년 창업 이래 오늘까지 살아남고자 하는 일념으로 좁은 발걸음을 뚜벅뚜벅 디뎌왔으며, 앞으로도 건강한 100년 기업을 지향하며 한걸음 한걸음 힘차게 걸어 나가겠습니다.",
+      "p1": "기업이 존속하려면 고객으로부터의 사랑과 종업원 및 협력사의 창의적이고 자발적이며 헌신적인 협력과 노력이 요구된다고 생각합니다. 따라서 우리 회사는 변화하는 시대의 니즈를 잘 듣고, 이를 현장에 잘 반영하고 실행하여 가시적인 결과를 만들어가겠습니다.",
+      "items": [
+        {
+          "year": "2026",
+          "month": "01",
+          "title": "신경영 선언",
+          "note": ""
+        },
+        {
+          "year": "2025",
+          "month": "12",
+          "title": "화성상공회의소 지정 지역사회공헌기업",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "11",
+          "title": "IBK기업은행 Family 기업 지정",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "03",
+          "title": "모범납세자 국세청장상 수상",
+          "note": ""
+        },
+        {
+          "year": "2022",
+          "month": "07",
+          "title": "적십자회원 유공자 명예장 수상",
+          "note": ""
+        },
+        {
+          "year": "2021",
+          "month": "12",
+          "title": "화성시 모범납세 인증업체 선정",
+          "note": ""
+        },
+        {
+          "year": "2017",
+          "month": "08",
+          "title": "ISO 9001:2015 인증 획득",
+          "note": ""
+        },
+        {
+          "year": "2016",
+          "month": "03",
+          "title": "도금 첨가제 수출 개시",
+          "note": "영업 확대"
+        },
+        {
+          "year": "2011",
+          "month": "03",
+          "title": "도금 첨가제 개발 및 판매 개시",
+          "note": "사업품목 확대"
+        },
+        {
+          "year": "2007",
+          "month": "01",
+          "title": "자가공장 신축",
+          "note": "사업장 및 부설연구소 이전"
+        },
+        {
+          "year": "2006",
+          "month": "04",
+          "title": "특허 출원 (부분 도금 지그)",
+          "note": "사업품목 확대"
+        },
+        {
+          "year": "2005",
+          "month": "05",
+          "title": "창원사무소 개소",
+          "note": "전국적인 영업망 구축"
+        },
+        {
+          "year": "2004",
+          "month": "04",
+          "title": "중소기업청 기술혁신사업 업체 선정",
+          "note": "기술개발비 지원"
+        },
+        {
+          "year": "2003",
+          "month": "11",
+          "title": "대한민국 벤처창업대전 참가",
+          "note": "영업 확대"
+        },
+        {
+          "year": "2002",
+          "month": "07",
+          "title": "특허 출원 (유가금속 회수 시스템)",
+          "note": "유가금속 회수사업 개시"
+        },
+        {
+          "year": "2002",
+          "month": "04",
+          "title": "㈜오티사이언스 설립",
+          "note": ""
+        }
+      ]
+    },
+    "Policy": {
+      "title": "경영정보",
+      "subtitle": "Management Policy",
+      "motto": {
+        "title": "사훈",
+        "en": "The Motto of Company",
+        "items": [
+          {
+            "title": "남 다르게!",
+            "en": "Specially Different from"
+          },
+          {
+            "title": "보다 더 낫게!",
+            "en": "Better than"
+          },
+          {
+            "title": "밖과 앞을 내다보며!",
+            "en": "Looking all around and ahead"
+          }
+        ],
+        "quote": "새로운 가치를 만들어 나간다",
+        "quoteEn": "Create New and Valuable Things"
+      },
+      "philosophy": {
+        "title": "경영이념",
+        "en": "Management Philosophy",
+        "lead": "삶의 터전으로서의 건강한 100년 기업을 지향한다.",
+        "leadEn": "To aim a Long-lived and Healthy Company",
+        "items": [
+          {
+            "title": "강소기업",
+            "desc": "Small hidden Champion"
+          },
+          {
+            "title": "신바람 기업문화",
+            "desc": "Well-balanced and Harmonious Company Culture"
+          },
+          {
+            "title": "국가와 사회발전에 공헌",
+            "desc": "Serve for our Communities"
+          }
+        ]
+      },
+      "quality": {
+        "title": "품질경영방침",
+        "en": "Quality Management Policy",
+        "text": "㈜오티사이언스는 도금 첨가제를 제조하고 판매하는 기업으로서, 제조 및 서비스에 관한 품질경영시스템을 ISO 9001 품질경영시스템을 기반으로 구축하였습니다. 이를 올바르고 효율적으로 운영하여 최상의 제품과 서비스를 고객에게 제공하고, 궁극적으로 고객의 요구사항을 충족시킴으로써 회사의 가치를 최고로 높이는 데 있습니다.",
+        "items": [
+          {
+            "title": "공정 불량률 ZERO",
+            "desc": "ZERO Defect"
+          },
+          {
+            "title": "고객 클레임 ZERO",
+            "desc": "ZERO Claim"
+          },
+          {
+            "title": "산업안전재해 발생 ZERO",
+            "desc": "ZERO Safety Accident"
+          }
+        ]
+      },
+      "environment": {
+        "title": "환경경영방침",
+        "en": "Environmental Management Policy",
+        "text": "㈜오티사이언스는 도금 첨가제를 제조·판매하는 기업으로서 제조 과정에서 발생하는 환경오염 요소를 최소화하기 위하여 제반 방지시설을 설치하고 효과적으로 운영하며, 제반 법규를 준수합니다.",
+        "items": [
+          {
+            "title": "환경사고 ZERO",
+            "desc": "ZERO Environmental Accident"
+          },
+          {
+            "title": "오염물질 배출 최소화",
+            "desc": "Minimization of Environmental Pollutants"
+          },
+          {
+            "title": "에너지 절감의 생활화",
+            "desc": "Continuous Energy Saving"
+          }
+        ]
+      }
+    },
+    "Location": {
+      "title": "오시는 길",
+      "subtitle": "Location",
+      "companyName": "㈜오티사이언스",
+      "address": "(18542) 경기도 화성시 마도면 마도공단로 2길 32, 마도지방산업단지 4B-7L",
+      "addressEn": "(18542) 32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea",
+      "openMap": "구글 지도에서 열기",
+      "publicTransit": "대중교통 이용 시",
+      "bus1": "330-1번 버스",
+      "bus1Desc": "마도산업단지 정류장 하차 후 도보 약 861m",
+      "bus2": "400-4번 버스",
+      "bus2Desc": "쌍송2리앞 정류장 하차 후 도보 약 461m",
+      "byCar": "자가용 이용 시",
+      "byCarDesc": "경기도 화성시 마도면 마도공단로 2길 32 (지번: 마도면 쌍송리 666-4)",
+      "mapTitle": "오티사이언스 위치 지도"
+    }
+  },
+  "Business": {
+    "sectionTitle": "사업분야",
+    "sectionEn": "Business",
+    "certifications": "인증 및 특허",
+    "Chemicals": {
+      "title": "표면처리 약품 제조",
+      "subtitle": "Specially Designed Plating Chemicals",
+      "intro": "전처리부터 후처리까지, 도금 공정 단계별로 최적화된 첨가제를 직접 개발하고 제조합니다. 유해화학물질 제조업 허가, ISO 9001:2015, INNO-BIZ 인증을 보유하고 있습니다.",
+      "certs": {
+        "hazmat": "유해화학물질 제조업",
+        "iso": "ISO 9001:2015",
+        "innobiz": "INNO-BIZ"
+      },
+      "table": {
+        "process": "공정",
+        "chemicals": "약품",
+        "products": "제품명"
+      },
+      "processes": {
+        "pre": {
+          "title": "전처리",
+          "en": "Pre-Treatment"
+        },
+        "under": {
+          "title": "하지도금",
+          "en": "Under-Plating"
+        },
+        "finish": {
+          "title": "도금",
+          "en": "Finishing Plating"
+        },
+        "post": {
+          "title": "후처리",
+          "en": "Post-Treatment"
+        }
+      }
+    },
+    "Metals": {
+      "title": "유가금속 회수 및 정제",
+      "subtitle": "Precious Metals Recovery and Refining",
+      "intro": "도금 과정에서 발생하는 세척수에 함유된 금, 은, 팔라듐 등 유가금속을 전해 방식과 흡착 방식으로 회수하고 정제합니다. 2002년 유가금속 회수 시스템 특허 출원과 함께 시작된 오티사이언스의 뿌리 사업입니다.",
+      "certs": {
+        "recycle": "폐기물 종합 재활용업",
+        "hazmat": "유해화학물질 사용업",
+        "patent1": "특허 No. 10-0638xxx",
+        "patent2": "실용신안 No. 20-290xxx",
+        "patent3": "실용신안 No. 20-420xxx",
+        "patent4": "실용신안 No. 20-436xxx"
+      },
+      "electrolytic": {
+        "title": "전해식 회수 시스템",
+        "en": "Electrolytic Type of Recovery System",
+        "desc": "세척수 내 유가금속 이온을 전기분해로 음극에 석출시켜 고순도로 회수합니다."
+      },
+      "adsorption": {
+        "title": "흡착식 회수 시스템",
+        "en": "Adsorption Type of Recovery System",
+        "desc": "이온교환수지 등 흡착제에 유가금속을 포집한 뒤 정제 공정을 거쳐 회수합니다."
+      }
+    },
+    "Equipment": {
+      "title": "도금 장치",
+      "subtitle": "Specially Designed Plating Equipments",
+      "intro": "커넥터 제품의 Au/Ag/Pd/Rh 부분 도금을 위한 지그, 백금 도금 또는 산화 이리듐 코팅 양극, Au/Ni/Cu 웨이퍼 범프 도금 장비를 설계·제작합니다.",
+      "certs": {
+        "design": "디자인 등록 No. 30-0436xxx",
+        "patent": "실용신안 No. 20-420xxx"
+      },
+      "items": [
+        {
+          "title": "부분 도금용 지그",
+          "en": "Selective Plating Jigs",
+          "desc": "커넥터 제품의 Au/Ag/Pd/Rh 부분 도금에 적용됩니다."
+        },
+        {
+          "title": "도금용 양극",
+          "en": "Platinum Plated or Iridium Coated Anode",
+          "desc": "백금 도금 또는 산화 이리듐 코팅 양극을 제작합니다."
+        },
+        {
+          "title": "웨이퍼 범프 도금장비",
+          "en": "Wafer Bump Plating Machine",
+          "desc": "Au, Ni, Cu 도금용 웨이퍼 범프 도금 장비를 공급합니다."
+        }
+      ],
+      "application": "Application : Au/Ag/Pd/Rh Selective Plating for Connector products",
+      "jigs": "지그",
+      "jigsEn": "Jigs Photo",
+      "plated": "도금 제품",
+      "platedEn": "Plated Products Photo"
+    },
+    "Rnd": {
+      "title": "연구개발",
+      "subtitle": "R&D",
+      "intro": "기업부설 금속재료 연구소에서 도금 현장에서 축적한 경험을 바탕으로 고객 니즈에 맞는 약품과 공정을 연구합니다. 다양한 분석 장비를 갖추고 제품 개발과 품질 관리를 수행합니다.",
+      "cert": "기업부설 금속재료 연구소",
+      "analyzers": "분석 장비",
+      "analyzersEn": "Analyzers"
+    }
+  },
+  "Technical": {
+    "title": "기술자료",
+    "subtitle": "Technical Materials",
+    "intro": "제품 기술자료와 공정 가이드를 제공합니다. 필요한 자료가 없다면 이메일로 문의해 주세요.",
+    "empty": "등록된 기술자료를 준비 중입니다.",
+    "emptyDesc": "제품 사양서, 공정 가이드 등 자료는 이메일로 요청하시면 신속히 보내드리겠습니다.",
+    "request": "자료 요청하기",
+    "download": "다운로드",
+    "date": "등록일",
+    "name": "자료명"
+  },
+  "Footer": {
+    "ceo": "대표이사 김영철",
+    "address": "경기도 화성시 마도면 마도공단로 2길 32, 마도지방산업단지 4B-7L",
+    "copyright": "© {year} OT SCIENCE Co., Ltd. All rights reserved.",
+    "quickLinks": "바로가기",
+    "contact": "연락처"
+  },
+  "NotFound": {
+    "title": "페이지를 찾을 수 없습니다",
+    "description": "요청하신 페이지가 존재하지 않거나 이동되었습니다.",
+    "back": "홈으로 돌아가기"
+  },
+  "Careers": {
+    "title": "채용",
+    "subtitle": "Careers",
+    "intro": "오티사이언스는 표면처리 현장과 함께 성장하는 기술 기업입니다. 도금 약품, 유가금속 회수, 장치 설계, 연구개발 분야에서 함께 배우고 만들어갈 동료를 기다립니다.",
+    "valuesTitle": "우리가 일하는 방식",
+    "valuesEn": "How we work",
+    "values": [
+      {
+        "title": "남 다르게, 보다 더 낫게",
+        "desc": "현장의 문제를 직접 보고 새로운 방법을 찾는 사람을 존중합니다."
+      },
+      {
+        "title": "신바람 기업문화",
+        "desc": "작지만 강한 조직에서 한 사람의 역할과 성장이 그대로 회사의 성장이 됩니다."
+      },
+      {
+        "title": "건강한 100년 기업",
+        "desc": "단기 성과보다 오래 함께 일할 수 있는 안정적인 일터를 지향합니다."
+      }
+    ],
+    "fieldsTitle": "모집 분야",
+    "fieldsEn": "Fields",
+    "fields": [
+      {
+        "title": "연구개발",
+        "desc": "도금 첨가제 개발, 분석(ICP-OES, SEM, HPLC 등), 공정 실험"
+      },
+      {
+        "title": "생산·품질",
+        "desc": "약품 제조, 유가금속 회수 공정 운영, ISO 9001 품질관리"
+      },
+      {
+        "title": "기술영업",
+        "desc": "국내외 도금 업체 대상 제품 제안, 현장 기술지원, 해외 수출"
+      },
+      {
+        "title": "설계·제작",
+        "desc": "부분 도금 지그, 양극, 웨이퍼 범프 도금 장비 설계 및 제작"
+      }
+    ],
+    "processTitle": "채용 절차",
+    "processEn": "Process",
+    "process": [
+      {
+        "title": "서류 접수",
+        "desc": "이력서와 경력기술서를 이메일로 보내주세요."
+      },
+      {
+        "title": "면접",
+        "desc": "실무 면접과 대표 면접을 진행합니다."
+      },
+      {
+        "title": "최종 합격",
+        "desc": "처우 협의 후 입사일을 조율합니다."
+      }
+    ],
+    "openingsTitle": "진행 중인 공고",
+    "openingsEn": "Open positions",
+    "noOpenings": "현재 진행 중인 공고가 없습니다.",
+    "noOpeningsDesc": "상시 지원을 받고 있습니다. 관심 분야와 이력서를 이메일로 보내주시면 검토 후 연락드리겠습니다.",
+    "department": "부서",
+    "type": "고용형태",
+    "location": "근무지",
+    "deadline": "마감",
+    "always": "상시 채용",
+    "apply": "지원하기",
+    "applySubject": "[입사지원] 오티사이언스",
+    "ctaTitle": "함께 일하고 싶으신가요?",
+    "ctaDesc": "이력서를 아래 이메일로 보내주세요. 근무지는 경기도 화성시 마도면 본사입니다.",
+    "ctaButton": "이메일로 지원하기"
+  }
+}

@@ -1,0 +1,518 @@
+{
+  "Meta": {
+    "siteName": "OT SCIENCE",
+    "title": "OT SCIENCE | 表面处理药剂 · 贵金属回收 · 电镀设备",
+    "description": "OT SCIENCE 自2002年创立以来，通过表面处理（电镀）药剂制造、贵金属回收与精炼、电镀设备及治具制作以及研发，为电镀产业的发展做出贡献。"
+  },
+  "Nav": {
+    "home": "首页",
+    "company": "公司介绍",
+    "greeting": "致辞",
+    "history": "发展历程",
+    "policy": "经营信息",
+    "location": "联系方式",
+    "business": "业务领域",
+    "chemicals": "表面处理药剂制造",
+    "metals": "贵金属回收与精炼",
+    "equipment": "电镀设备",
+    "rnd": "研发",
+    "technical": "技术资料",
+    "contact": "联系我们",
+    "language": "选择语言",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "careers": "招聘"
+  },
+  "Common": {
+    "readMore": "了解更多",
+    "viewAll": "查看全部",
+    "home": "首页",
+    "contactUs": "联系我们",
+    "since": "{year}年创立",
+    "ceo": "代表理事",
+    "address": "地址",
+    "tel": "电话",
+    "fax": "传真",
+    "email": "邮箱"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Since 2002 · Plating Specialists",
+      "title": "Anyone! Anywhere! Anytime!",
+      "subtitle": "With Plating Workers",
+      "description": "从电镀现场的药剂、设备到贵金属回收，OT SCIENCE 是与电镀现场共同成长的技术合作伙伴。",
+      "primaryCta": "查看业务领域",
+      "secondaryCta": "公司介绍"
+    },
+    "stats": {
+      "founded": "创立",
+      "foundedValue": "2002",
+      "iso": "质量管理认证",
+      "isoValue": "ISO 9001",
+      "patents": "专利 · 实用新型 · 外观设计",
+      "patentsValue": "6+",
+      "lab": "企业附属研究所",
+      "labValue": "金属材料"
+    },
+    "business": {
+      "eyebrow": "Business",
+      "title": "电镀现场所需的一切",
+      "description": "设备与治具、药剂，以及从清洗水中回收贵金属。四大业务覆盖表面处理的全部工序。",
+      "chemicals": {
+        "title": "表面处理药剂制造",
+        "en": "Plating Chemicals",
+        "description": "从前处理到后处理，自主开发并制造各工序的添加剂。"
+      },
+      "metals": {
+        "title": "贵金属回收与精炼",
+        "en": "Precious Metals Recovery",
+        "description": "采用电解与吸附方式回收并精炼金、银、钯。"
+      },
+      "equipment": {
+        "title": "电镀设备与治具",
+        "en": "Plating Equipments & Jigs",
+        "description": "设计并制造局部电镀治具、电镀用阳极、晶圆凸点电镀设备。"
+      },
+      "rnd": {
+        "title": "研发",
+        "en": "R&D",
+        "description": "企业附属金属材料研究所根据客户需求开发定制技术。"
+      }
+    },
+    "about": {
+      "eyebrow": "About OT SCIENCE",
+      "title": "制造业根基产业——表面处理的合作伙伴",
+      "description": "表面处理（电镀）与铸造、模具、焊接、塑性加工、热处理一同被指定为韩国的国家根基产业。OT SCIENCE 制造电镀工序所需的设备、治具和药剂，并回收、精炼电镀过程中清洗水所含的贵金属。",
+      "cta": "查看致辞"
+    },
+    "philosophy": {
+      "eyebrow": "Management Philosophy",
+      "title": "作为生活根基的健康百年企业",
+      "cta": "查看经营信息"
+    },
+    "technical": {
+      "eyebrow": "Technical Materials",
+      "title": "开发符合客户需求的技术",
+      "description": "查阅产品技术资料与工艺指南。",
+      "cta": "查看技术资料"
+    },
+    "contact": {
+      "title": "需要电镀工艺方面的咨询吗？",
+      "description": "药剂、设备、贵金属回收等任何问题，欢迎随时联系我们。",
+      "cta": "邮件咨询",
+      "call": "电话咨询"
+    }
+  },
+  "Company": {
+    "sectionTitle": "公司介绍",
+    "sectionEn": "Company",
+    "Greeting": {
+      "title": "致辞",
+      "subtitle": "Greeting",
+      "lead": "感谢您访问 OT SCIENCE 官方网站。",
+      "p1": "表面处理（电镀）与铸造、模具、焊接、塑性加工、热处理一同被指定为韩国的国家根基产业。根基产业是生产零部件或成品的基础产业，是制造业竞争力的根本，因此得名。",
+      "p2": "进行表面处理（电镀），首先需要设备及治具（装置）、用于被镀物表面处理的药剂、清洗被镀物的水，其次还需要净化被药剂污染的清洗水的废水处理设施。",
+      "p3": "本公司制作、制造或进口并销售表面处理（电镀）工序中使用的设备、治具和药剂，同时也从事回收并精炼表面处理过程中清洗水所含贵金属（金、银、钯）的业务。",
+      "p4": "我们承诺，将运用多年来在电镀现场积累的技术与经验，开发并制造反映客户需求的技术，为表面处理产业的发展做出贡献。",
+      "closing": "谢谢。",
+      "signature": "OT SCIENCE 代表理事 金永哲",
+      "imageAlt": "OT SCIENCE 总部及附属金属材料研究所"
+    },
+    "History": {
+      "title": "发展历程",
+      "subtitle": "History",
+      "lead": "OT SCIENCE 自2002年创立以来，抱着生存发展的信念一步一个脚印稳步前行，今后也将以建设健康的百年企业为目标，坚定有力地继续前进。",
+      "p1": "企业要持续发展，需要客户的厚爱，以及员工与合作伙伴富有创造性、自发性和奉献精神的协作与努力。因此，我们将认真倾听时代变化的需求，切实落实到现场并付诸执行，创造可见的成果。",
+      "items": [
+        {
+          "year": "2026",
+          "month": "01",
+          "title": "新经营宣言",
+          "note": ""
+        },
+        {
+          "year": "2025",
+          "month": "12",
+          "title": "获华城商工会议所指定为地区社会贡献企业",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "11",
+          "title": "获指定为 IBK 企业银行 Family 企业",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "03",
+          "title": "荣获模范纳税人国税厅长奖",
+          "note": ""
+        },
+        {
+          "year": "2022",
+          "month": "07",
+          "title": "荣获红十字会员有功者名誉章",
+          "note": ""
+        },
+        {
+          "year": "2021",
+          "month": "12",
+          "title": "入选华城市模范纳税认证企业",
+          "note": ""
+        },
+        {
+          "year": "2017",
+          "month": "08",
+          "title": "获得 ISO 9001:2015 认证",
+          "note": ""
+        },
+        {
+          "year": "2016",
+          "month": "03",
+          "title": "开始出口电镀添加剂",
+          "note": "扩大销售"
+        },
+        {
+          "year": "2011",
+          "month": "03",
+          "title": "开始开发并销售电镀添加剂",
+          "note": "扩大业务品类"
+        },
+        {
+          "year": "2007",
+          "month": "01",
+          "title": "新建自有工厂",
+          "note": "迁移厂区及附属研究所"
+        },
+        {
+          "year": "2006",
+          "month": "04",
+          "title": "申请专利（局部电镀治具）",
+          "note": "扩大业务品类"
+        },
+        {
+          "year": "2005",
+          "month": "05",
+          "title": "设立昌原办事处",
+          "note": "构建全国销售网络"
+        },
+        {
+          "year": "2004",
+          "month": "04",
+          "title": "入选中小企业厅技术创新项目企业",
+          "note": "技术开发经费支持"
+        },
+        {
+          "year": "2003",
+          "month": "11",
+          "title": "参加大韩民国创业博览会",
+          "note": "扩大销售"
+        },
+        {
+          "year": "2002",
+          "month": "07",
+          "title": "申请专利（贵金属回收系统）",
+          "note": "启动贵金属回收业务"
+        },
+        {
+          "year": "2002",
+          "month": "04",
+          "title": "OT SCIENCE 株式会社成立",
+          "note": ""
+        }
+      ]
+    },
+    "Policy": {
+      "title": "经营信息",
+      "subtitle": "Management Policy",
+      "motto": {
+        "title": "社训",
+        "en": "The Motto of Company",
+        "items": [
+          {
+            "title": "与众不同！",
+            "en": "Specially Different from"
+          },
+          {
+            "title": "更胜一筹！",
+            "en": "Better than"
+          },
+          {
+            "title": "放眼四周与未来！",
+            "en": "Looking all around and ahead"
+          }
+        ],
+        "quote": "创造新的价值",
+        "quoteEn": "Create New and Valuable Things"
+      },
+      "philosophy": {
+        "title": "经营理念",
+        "en": "Management Philosophy",
+        "lead": "以成为作为生活根基的健康百年企业为目标。",
+        "leadEn": "To aim a Long-lived and Healthy Company",
+        "items": [
+          {
+            "title": "小而强的企业",
+            "desc": "Small hidden Champion"
+          },
+          {
+            "title": "充满活力的企业文化",
+            "desc": "Well-balanced and Harmonious Company Culture"
+          },
+          {
+            "title": "为国家与社会发展做贡献",
+            "desc": "Serve for our Communities"
+          }
+        ]
+      },
+      "quality": {
+        "title": "质量经营方针",
+        "en": "Quality Management Policy",
+        "text": "OT SCIENCE 作为制造并销售电镀添加剂的企业，以 ISO 9001 质量管理体系为基础构建了制造及服务方面的质量管理体系。通过正确、高效地运行该体系，为客户提供最优质的产品和服务，最终通过满足客户要求将公司价值提升到最高水平。",
+        "items": [
+          {
+            "title": "工序不良率归零",
+            "desc": "ZERO Defect"
+          },
+          {
+            "title": "客户投诉归零",
+            "desc": "ZERO Claim"
+          },
+          {
+            "title": "工伤事故归零",
+            "desc": "ZERO Safety Accident"
+          }
+        ]
+      },
+      "environment": {
+        "title": "环境经营方针",
+        "en": "Environmental Management Policy",
+        "text": "OT SCIENCE 作为制造并销售电镀添加剂的企业，为最大限度减少制造过程中产生的环境污染因素，设置并有效运行各类防治设施，并遵守相关法律法规。",
+        "items": [
+          {
+            "title": "环境事故归零",
+            "desc": "ZERO Environmental Accident"
+          },
+          {
+            "title": "污染物排放最小化",
+            "desc": "Minimization of Environmental Pollutants"
+          },
+          {
+            "title": "节能成为日常",
+            "desc": "Continuous Energy Saving"
+          }
+        ]
+      }
+    },
+    "Location": {
+      "title": "联系方式",
+      "subtitle": "Location",
+      "companyName": "OT SCIENCE 株式会社",
+      "address": "(18542) 韩国京畿道华城市麻道面麻道工团路2街32号，麻道地方产业园区 4B-7L",
+      "addressEn": "(18542) 32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea",
+      "openMap": "在 Google 地图中打开",
+      "publicTransit": "乘坐公共交通",
+      "bus1": "330-1路公交",
+      "bus1Desc": "在麻道产业园区站下车后步行约861米",
+      "bus2": "400-4路公交",
+      "bus2Desc": "在双松2里前站下车后步行约461米",
+      "byCar": "自驾前往",
+      "byCarDesc": "京畿道华城市麻道面麻道工团路2街32号（地番：麻道面双松里666-4）",
+      "mapTitle": "OT SCIENCE 位置地图"
+    }
+  },
+  "Business": {
+    "sectionTitle": "业务领域",
+    "sectionEn": "Business",
+    "certifications": "认证与专利",
+    "Chemicals": {
+      "title": "表面处理药剂制造",
+      "subtitle": "Specially Designed Plating Chemicals",
+      "intro": "从前处理到后处理，我们自主开发并制造针对电镀各工序优化的添加剂。持有有害化学物质制造业许可、ISO 9001:2015 及 INNO-BIZ 认证。",
+      "certs": {
+        "hazmat": "有害化学物质制造业",
+        "iso": "ISO 9001:2015",
+        "innobiz": "INNO-BIZ"
+      },
+      "table": {
+        "process": "工序",
+        "chemicals": "药剂",
+        "products": "产品名称"
+      },
+      "processes": {
+        "pre": {
+          "title": "前处理",
+          "en": "Pre-Treatment"
+        },
+        "under": {
+          "title": "底镀",
+          "en": "Under-Plating"
+        },
+        "finish": {
+          "title": "电镀",
+          "en": "Finishing Plating"
+        },
+        "post": {
+          "title": "后处理",
+          "en": "Post-Treatment"
+        }
+      }
+    },
+    "Metals": {
+      "title": "贵金属回收与精炼",
+      "subtitle": "Precious Metals Recovery and Refining",
+      "intro": "采用电解与吸附方式，回收并精炼电镀过程中清洗水所含的金、银、钯等贵金属。这是 OT SCIENCE 于2002年随贵金属回收系统专利申请一同起步的根基业务。",
+      "certs": {
+        "recycle": "废弃物综合再利用业",
+        "hazmat": "有害化学物质使用业",
+        "patent1": "专利 No. 10-0638xxx",
+        "patent2": "实用新型 No. 20-290xxx",
+        "patent3": "实用新型 No. 20-420xxx",
+        "patent4": "实用新型 No. 20-436xxx"
+      },
+      "electrolytic": {
+        "title": "电解式回收系统",
+        "en": "Electrolytic Type of Recovery System",
+        "desc": "通过电解使清洗水中的贵金属离子在阴极析出，实现高纯度回收。"
+      },
+      "adsorption": {
+        "title": "吸附式回收系统",
+        "en": "Adsorption Type of Recovery System",
+        "desc": "利用离子交换树脂等吸附剂捕集贵金属，再经精炼工序回收。"
+      }
+    },
+    "Equipment": {
+      "title": "电镀设备",
+      "subtitle": "Specially Designed Plating Equipments",
+      "intro": "设计并制造用于连接器产品 Au/Ag/Pd/Rh 局部电镀的治具、镀铂或氧化铱涂层阳极，以及 Au/Ni/Cu 晶圆凸点电镀设备。",
+      "certs": {
+        "design": "外观设计注册 No. 30-0436xxx",
+        "patent": "实用新型 No. 20-420xxx"
+      },
+      "items": [
+        {
+          "title": "局部电镀治具",
+          "en": "Selective Plating Jigs",
+          "desc": "适用于连接器产品的 Au/Ag/Pd/Rh 局部电镀。"
+        },
+        {
+          "title": "电镀用阳极",
+          "en": "Platinum Plated or Iridium Coated Anode",
+          "desc": "制造镀铂或氧化铱涂层阳极。"
+        },
+        {
+          "title": "晶圆凸点电镀设备",
+          "en": "Wafer Bump Plating Machine",
+          "desc": "供应用于 Au、Ni、Cu 电镀的晶圆凸点电镀设备。"
+        }
+      ],
+      "application": "Application : Au/Ag/Pd/Rh Selective Plating for Connector products",
+      "jigs": "治具",
+      "jigsEn": "Jigs Photo",
+      "plated": "电镀产品",
+      "platedEn": "Plated Products Photo"
+    },
+    "Rnd": {
+      "title": "研发",
+      "subtitle": "R&D",
+      "intro": "企业附属金属材料研究所以电镀现场积累的经验为基础，研究符合客户需求的药剂与工艺。配备多种分析设备，开展产品开发与质量管理。",
+      "cert": "企业附属金属材料研究所",
+      "analyzers": "分析设备",
+      "analyzersEn": "Analyzers"
+    }
+  },
+  "Technical": {
+    "title": "技术资料",
+    "subtitle": "Technical Materials",
+    "intro": "提供产品技术资料与工艺指南。如未找到所需资料，请通过邮件联系我们。",
+    "empty": "技术资料正在准备中。",
+    "emptyDesc": "产品规格书、工艺指南等资料，可通过邮件索取，我们将尽快发送。",
+    "request": "索取资料",
+    "download": "下载",
+    "date": "发布日期",
+    "name": "资料名称"
+  },
+  "Footer": {
+    "ceo": "代表理事 金永哲",
+    "address": "韩国京畿道华城市麻道面麻道工团路2街32号，麻道地方产业园区 4B-7L",
+    "copyright": "© {year} OT SCIENCE Co., Ltd. All rights reserved.",
+    "quickLinks": "快捷链接",
+    "contact": "联系方式"
+  },
+  "NotFound": {
+    "title": "找不到页面",
+    "description": "您请求的页面不存在或已被移动。",
+    "back": "返回首页"
+  },
+  "Careers": {
+    "title": "招聘",
+    "subtitle": "Careers",
+    "intro": "OT SCIENCE 是与表面处理现场共同成长的技术企业。我们期待在电镀药剂、贵金属回收、设备设计、研发等领域一起学习、一起创造的同事加入。",
+    "valuesTitle": "我们的工作方式",
+    "valuesEn": "How we work",
+    "values": [
+      {
+        "title": "与众不同，更胜一筹",
+        "desc": "我们尊重亲自观察现场问题并寻找新方法的人。"
+      },
+      {
+        "title": "充满活力的企业文化",
+        "desc": "在小而强的组织中，每个人的角色与成长就是公司的成长。"
+      },
+      {
+        "title": "健康的百年企业",
+        "desc": "比起短期业绩，我们更追求能够长期共事的稳定工作环境。"
+      }
+    ],
+    "fieldsTitle": "招聘领域",
+    "fieldsEn": "Fields",
+    "fields": [
+      {
+        "title": "研发",
+        "desc": "电镀添加剂开发、分析（ICP-OES、SEM、HPLC 等）、工艺试验"
+      },
+      {
+        "title": "生产·质量",
+        "desc": "药剂制造、贵金属回收工艺运营、ISO 9001 质量管理"
+      },
+      {
+        "title": "技术销售",
+        "desc": "面向国内外电镀企业的产品提案、现场技术支持、海外出口"
+      },
+      {
+        "title": "设计·制作",
+        "desc": "局部电镀治具、阳极、晶圆凸点电镀设备的设计与制作"
+      }
+    ],
+    "processTitle": "招聘流程",
+    "processEn": "Process",
+    "process": [
+      {
+        "title": "简历投递",
+        "desc": "请通过邮件发送简历及工作经历。"
+      },
+      {
+        "title": "面试",
+        "desc": "进行业务面试和代表面试。"
+      },
+      {
+        "title": "最终录用",
+        "desc": "协商待遇后确定入职日期。"
+      }
+    ],
+    "openingsTitle": "在招职位",
+    "openingsEn": "Open positions",
+    "noOpenings": "目前没有在招职位。",
+    "noOpeningsDesc": "我们常年接受应聘。请将您感兴趣的领域和简历发送至邮箱，审核后我们会与您联系。",
+    "department": "部门",
+    "type": "雇佣形式",
+    "location": "工作地点",
+    "deadline": "截止日期",
+    "always": "常年招聘",
+    "apply": "申请",
+    "applySubject": "[应聘] OT SCIENCE",
+    "ctaTitle": "想和我们一起工作吗？",
+    "ctaDesc": "请将简历发送至下方邮箱。工作地点为韩国京畿道华城市麻道面总部。",
+    "ctaButton": "通过邮件应聘"
+  }
+}

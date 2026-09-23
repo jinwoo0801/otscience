@@ -1,0 +1,518 @@
+{
+  "Meta": {
+    "siteName": "OTサイエンス",
+    "title": "OTサイエンス | 表面処理薬品・貴金属回収・めっき装置",
+    "description": "㈱OTサイエンスは2002年の創業以来、表面処理（めっき）薬品の製造、貴金属の回収・精製、めっき装置・治具の製作、研究開発を通じてめっき産業の発展に貢献しています。"
+  },
+  "Nav": {
+    "home": "ホーム",
+    "company": "会社案内",
+    "greeting": "ご挨拶",
+    "history": "沿革",
+    "policy": "経営情報",
+    "location": "アクセス",
+    "business": "事業分野",
+    "chemicals": "表面処理薬品製造",
+    "metals": "貴金属回収・精製",
+    "equipment": "めっき装置",
+    "rnd": "研究開発",
+    "technical": "技術資料",
+    "contact": "お問い合わせ",
+    "language": "言語を選択",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "careers": "採用情報"
+  },
+  "Common": {
+    "readMore": "詳しく見る",
+    "viewAll": "すべて見る",
+    "home": "ホーム",
+    "contactUs": "お問い合わせ",
+    "since": "{year}年創業",
+    "ceo": "代表取締役",
+    "address": "住所",
+    "tel": "電話",
+    "fax": "FAX",
+    "email": "メール"
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Since 2002 · Plating Specialists",
+      "title": "Anyone! Anywhere! Anytime!",
+      "subtitle": "With Plating Workers",
+      "description": "めっき現場の薬品、装置、貴金属回収まで。OTサイエンスはめっき現場とともに成長する技術パートナーです。",
+      "primaryCta": "事業分野を見る",
+      "secondaryCta": "会社案内"
+    },
+    "stats": {
+      "founded": "創業",
+      "foundedValue": "2002",
+      "iso": "品質マネジメント認証",
+      "isoValue": "ISO 9001",
+      "patents": "特許・実用新案・意匠",
+      "patentsValue": "6+",
+      "lab": "企業付設研究所",
+      "labValue": "金属材料"
+    },
+    "business": {
+      "eyebrow": "Business",
+      "title": "めっき現場に必要なすべてを",
+      "description": "設備と治具、薬品、そして洗浄水中の貴金属回収まで。表面処理工程全体をカバーする4つの事業を展開しています。",
+      "chemicals": {
+        "title": "表面処理薬品製造",
+        "en": "Plating Chemicals",
+        "description": "前処理から後処理まで、工程別の添加剤を自社で開発・製造します。"
+      },
+      "metals": {
+        "title": "貴金属回収・精製",
+        "en": "Precious Metals Recovery",
+        "description": "電解方式と吸着方式で金・銀・パラジウムを回収・精製します。"
+      },
+      "equipment": {
+        "title": "めっき装置・治具",
+        "en": "Plating Equipments & Jigs",
+        "description": "部分めっき治具、めっき用アノード、ウェハーバンプめっき装置を設計・製作します。"
+      },
+      "rnd": {
+        "title": "研究開発",
+        "en": "R&D",
+        "description": "企業付設金属材料研究所で、お客様のニーズに合わせた技術を開発します。"
+      }
+    },
+    "about": {
+      "eyebrow": "About OT SCIENCE",
+      "title": "ものづくりの根幹、表面処理のパートナー",
+      "description": "表面処理（めっき）は鋳造、金型、溶接、塑性加工、熱処理とともに韓国の「根幹産業」に指定されています。OTサイエンスはめっき工程に必要な設備・治具・薬品を製造し、めっき工程で発生する洗浄水中の貴金属を回収・精製しています。",
+      "cta": "ご挨拶を見る"
+    },
+    "philosophy": {
+      "eyebrow": "Management Philosophy",
+      "title": "生活の基盤としての健全な100年企業",
+      "cta": "経営情報を見る"
+    },
+    "technical": {
+      "eyebrow": "Technical Materials",
+      "title": "お客様のニーズに応える技術を開発します",
+      "description": "製品の技術資料と工程ガイドをご覧ください。",
+      "cta": "技術資料を見る"
+    },
+    "contact": {
+      "title": "めっき工程についてご相談はありませんか？",
+      "description": "薬品、装置、貴金属回収など、どのようなご質問でもお気軽にご連絡ください。",
+      "cta": "メールで問い合わせ",
+      "call": "電話で問い合わせ"
+    }
+  },
+  "Company": {
+    "sectionTitle": "会社案内",
+    "sectionEn": "Company",
+    "Greeting": {
+      "title": "ご挨拶",
+      "subtitle": "Greeting",
+      "lead": "㈱OTサイエンスのホームページをご覧いただき、ありがとうございます。",
+      "p1": "表面処理（めっき）は鋳造、金型、溶接、塑性加工、熱処理とともに韓国の根幹産業に指定されています。根幹産業とは、部品や完成品を生産する基礎産業として、製造業競争力の根幹となるという意味で名付けられました。",
+      "p2": "めっきを行うには、まず設備および治具（装置）、被めっき物の表面処理に用いる薬品、被めっき物を洗浄する水が必要であり、次に薬品で汚染された洗浄水を浄化する廃水処理施設が必要です。",
+      "p3": "当社は表面処理（めっき）工程で使用される設備・治具・薬品を製作・製造または輸入して販売しており、めっき工程で発生する洗浄水に含まれる貴金属（金・銀・パラジウム）を回収・精製する事業も行っています。",
+      "p4": "これまでめっき現場で蓄積してきた技術と経験を活かし、お客様のニーズを反映した技術を開発・製造し、表面処理産業の発展に貢献することをお約束します。",
+      "closing": "ありがとうございます。",
+      "signature": "㈱OTサイエンス 代表取締役 金 永哲",
+      "imageAlt": "OTサイエンス本社および付設金属材料研究所"
+    },
+    "History": {
+      "title": "沿革",
+      "subtitle": "History",
+      "lead": "㈱OTサイエンスは2002年の創業以来、生き残るという一念で一歩一歩着実に歩んできました。これからも健全な100年企業を目指し、力強く歩み続けます。",
+      "p1": "企業が存続するには、お客様からの信頼と、従業員および協力会社の創造的で自発的、献身的な協力と努力が求められると考えています。当社は変化する時代のニーズに耳を傾け、現場に反映・実行し、目に見える成果を生み出していきます。",
+      "items": [
+        {
+          "year": "2026",
+          "month": "01",
+          "title": "新経営宣言",
+          "note": ""
+        },
+        {
+          "year": "2025",
+          "month": "12",
+          "title": "華城商工会議所 地域社会貢献企業に指定",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "11",
+          "title": "IBK企業銀行 Family企業に指定",
+          "note": ""
+        },
+        {
+          "year": "2023",
+          "month": "03",
+          "title": "模範納税者 国税庁長賞受賞",
+          "note": ""
+        },
+        {
+          "year": "2022",
+          "month": "07",
+          "title": "赤十字会員有功者名誉章受賞",
+          "note": ""
+        },
+        {
+          "year": "2021",
+          "month": "12",
+          "title": "華城市 模範納税認証企業に選定",
+          "note": ""
+        },
+        {
+          "year": "2017",
+          "month": "08",
+          "title": "ISO 9001:2015 認証取得",
+          "note": ""
+        },
+        {
+          "year": "2016",
+          "month": "03",
+          "title": "めっき添加剤の輸出開始",
+          "note": "営業拡大"
+        },
+        {
+          "year": "2011",
+          "month": "03",
+          "title": "めっき添加剤の開発・販売開始",
+          "note": "事業品目拡大"
+        },
+        {
+          "year": "2007",
+          "month": "01",
+          "title": "自社工場新築",
+          "note": "事業所および付設研究所を移転"
+        },
+        {
+          "year": "2006",
+          "month": "04",
+          "title": "特許出願（部分めっき治具）",
+          "note": "事業品目拡大"
+        },
+        {
+          "year": "2005",
+          "month": "05",
+          "title": "昌原事務所開設",
+          "note": "全国的な営業網を構築"
+        },
+        {
+          "year": "2004",
+          "month": "04",
+          "title": "中小企業庁 技術革新事業企業に選定",
+          "note": "技術開発費支援"
+        },
+        {
+          "year": "2003",
+          "month": "11",
+          "title": "大韓民国ベンチャー創業大展に参加",
+          "note": "営業拡大"
+        },
+        {
+          "year": "2002",
+          "month": "07",
+          "title": "特許出願（貴金属回収システム）",
+          "note": "貴金属回収事業開始"
+        },
+        {
+          "year": "2002",
+          "month": "04",
+          "title": "㈱OTサイエンス設立",
+          "note": ""
+        }
+      ]
+    },
+    "Policy": {
+      "title": "経営情報",
+      "subtitle": "Management Policy",
+      "motto": {
+        "title": "社訓",
+        "en": "The Motto of Company",
+        "items": [
+          {
+            "title": "人とは違うように！",
+            "en": "Specially Different from"
+          },
+          {
+            "title": "より良く！",
+            "en": "Better than"
+          },
+          {
+            "title": "外と先を見据えて！",
+            "en": "Looking all around and ahead"
+          }
+        ],
+        "quote": "新しい価値を創り出す",
+        "quoteEn": "Create New and Valuable Things"
+      },
+      "philosophy": {
+        "title": "経営理念",
+        "en": "Management Philosophy",
+        "lead": "生活の基盤としての健全な100年企業を目指す。",
+        "leadEn": "To aim a Long-lived and Healthy Company",
+        "items": [
+          {
+            "title": "強小企業",
+            "desc": "Small hidden Champion"
+          },
+          {
+            "title": "活気ある企業文化",
+            "desc": "Well-balanced and Harmonious Company Culture"
+          },
+          {
+            "title": "国家と社会の発展に貢献",
+            "desc": "Serve for our Communities"
+          }
+        ]
+      },
+      "quality": {
+        "title": "品質経営方針",
+        "en": "Quality Management Policy",
+        "text": "㈱OTサイエンスはめっき添加剤を製造・販売する企業として、製造およびサービスに関する品質マネジメントシステムをISO 9001に基づいて構築しました。これを正しく効率的に運営することで最高の製品とサービスをお客様に提供し、最終的にお客様の要求事項を満たすことで会社の価値を最大限に高めます。",
+        "items": [
+          {
+            "title": "工程不良率ZERO",
+            "desc": "ZERO Defect"
+          },
+          {
+            "title": "顧客クレームZERO",
+            "desc": "ZERO Claim"
+          },
+          {
+            "title": "労働災害ZERO",
+            "desc": "ZERO Safety Accident"
+          }
+        ]
+      },
+      "environment": {
+        "title": "環境経営方針",
+        "en": "Environmental Management Policy",
+        "text": "㈱OTサイエンスはめっき添加剤を製造・販売する企業として、製造過程で発生する環境汚染要素を最小化するために各種防止設備を設置し効果的に運営するとともに、関連法規を遵守します。",
+        "items": [
+          {
+            "title": "環境事故ZERO",
+            "desc": "ZERO Environmental Accident"
+          },
+          {
+            "title": "汚染物質排出の最小化",
+            "desc": "Minimization of Environmental Pollutants"
+          },
+          {
+            "title": "省エネルギーの習慣化",
+            "desc": "Continuous Energy Saving"
+          }
+        ]
+      }
+    },
+    "Location": {
+      "title": "アクセス",
+      "subtitle": "Location",
+      "companyName": "㈱OTサイエンス",
+      "address": "(18542) 韓国 京畿道 華城市 麻道面 麻道工団路2キル32、麻道地方産業団地 4B-7L",
+      "addressEn": "(18542) 32 Madogongdan-ro 2-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Korea",
+      "openMap": "Googleマップで開く",
+      "publicTransit": "公共交通機関をご利用の場合",
+      "bus1": "330-1番バス",
+      "bus1Desc": "麻道産業団地停留所下車後、徒歩約861m",
+      "bus2": "400-4番バス",
+      "bus2Desc": "雙松2里前停留所下車後、徒歩約461m",
+      "byCar": "お車をご利用の場合",
+      "byCarDesc": "京畿道 華城市 麻道面 麻道工団路2キル32（地番：麻道面 雙松里 666-4）",
+      "mapTitle": "OTサイエンスの所在地地図"
+    }
+  },
+  "Business": {
+    "sectionTitle": "事業分野",
+    "sectionEn": "Business",
+    "certifications": "認証・特許",
+    "Chemicals": {
+      "title": "表面処理薬品製造",
+      "subtitle": "Specially Designed Plating Chemicals",
+      "intro": "前処理から後処理まで、めっき工程の各段階に最適化した添加剤を自社で開発・製造しています。有害化学物質製造業許可、ISO 9001:2015、INNO-BIZ認証を保有しています。",
+      "certs": {
+        "hazmat": "有害化学物質製造業",
+        "iso": "ISO 9001:2015",
+        "innobiz": "INNO-BIZ"
+      },
+      "table": {
+        "process": "工程",
+        "chemicals": "薬品",
+        "products": "製品名"
+      },
+      "processes": {
+        "pre": {
+          "title": "前処理",
+          "en": "Pre-Treatment"
+        },
+        "under": {
+          "title": "下地めっき",
+          "en": "Under-Plating"
+        },
+        "finish": {
+          "title": "めっき",
+          "en": "Finishing Plating"
+        },
+        "post": {
+          "title": "後処理",
+          "en": "Post-Treatment"
+        }
+      }
+    },
+    "Metals": {
+      "title": "貴金属回収・精製",
+      "subtitle": "Precious Metals Recovery and Refining",
+      "intro": "めっき工程で発生する洗浄水に含まれる金・銀・パラジウムなどの貴金属を、電解方式と吸着方式で回収・精製します。2002年の貴金属回収システム特許出願とともに始まった、OTサイエンスの原点となる事業です。",
+      "certs": {
+        "recycle": "廃棄物総合リサイクル業",
+        "hazmat": "有害化学物質使用業",
+        "patent1": "特許 No. 10-0638xxx",
+        "patent2": "実用新案 No. 20-290xxx",
+        "patent3": "実用新案 No. 20-420xxx",
+        "patent4": "実用新案 No. 20-436xxx"
+      },
+      "electrolytic": {
+        "title": "電解式回収システム",
+        "en": "Electrolytic Type of Recovery System",
+        "desc": "洗浄水中の貴金属イオンを電気分解で陰極に析出させ、高純度で回収します。"
+      },
+      "adsorption": {
+        "title": "吸着式回収システム",
+        "en": "Adsorption Type of Recovery System",
+        "desc": "イオン交換樹脂などの吸着剤に貴金属を捕集した後、精製工程を経て回収します。"
+      }
+    },
+    "Equipment": {
+      "title": "めっき装置",
+      "subtitle": "Specially Designed Plating Equipments",
+      "intro": "コネクタ製品のAu/Ag/Pd/Rh部分めっき用治具、白金めっきまたは酸化イリジウムコーティングアノード、Au/Ni/Cuウェハーバンプめっき装置を設計・製作しています。",
+      "certs": {
+        "design": "意匠登録 No. 30-0436xxx",
+        "patent": "実用新案 No. 20-420xxx"
+      },
+      "items": [
+        {
+          "title": "部分めっき用治具",
+          "en": "Selective Plating Jigs",
+          "desc": "コネクタ製品のAu/Ag/Pd/Rh部分めっきに適用されます。"
+        },
+        {
+          "title": "めっき用アノード",
+          "en": "Platinum Plated or Iridium Coated Anode",
+          "desc": "白金めっきまたは酸化イリジウムコーティングのアノードを製作します。"
+        },
+        {
+          "title": "ウェハーバンプめっき装置",
+          "en": "Wafer Bump Plating Machine",
+          "desc": "Au、Ni、Cuめっき用のウェハーバンプめっき装置を供給します。"
+        }
+      ],
+      "application": "Application : Au/Ag/Pd/Rh Selective Plating for Connector products",
+      "jigs": "治具",
+      "jigsEn": "Jigs Photo",
+      "plated": "めっき製品",
+      "platedEn": "Plated Products Photo"
+    },
+    "Rnd": {
+      "title": "研究開発",
+      "subtitle": "R&D",
+      "intro": "企業付設金属材料研究所では、めっき現場で蓄積した経験をもとに、お客様のニーズに合った薬品と工程を研究しています。各種分析装置を備え、製品開発と品質管理を行っています。",
+      "cert": "企業付設金属材料研究所",
+      "analyzers": "分析装置",
+      "analyzersEn": "Analyzers"
+    }
+  },
+  "Technical": {
+    "title": "技術資料",
+    "subtitle": "Technical Materials",
+    "intro": "製品の技術資料と工程ガイドを提供しています。必要な資料が見つからない場合は、メールでお問い合わせください。",
+    "empty": "技術資料を準備中です。",
+    "emptyDesc": "製品仕様書や工程ガイドなどの資料は、メールでご請求いただければ速やかにお送りします。",
+    "request": "資料を請求する",
+    "download": "ダウンロード",
+    "date": "登録日",
+    "name": "資料名"
+  },
+  "Footer": {
+    "ceo": "代表取締役 金 永哲",
+    "address": "韓国 京畿道 華城市 麻道面 麻道工団路2キル32、麻道地方産業団地 4B-7L",
+    "copyright": "© {year} OT SCIENCE Co., Ltd. All rights reserved.",
+    "quickLinks": "クイックリンク",
+    "contact": "連絡先"
+  },
+  "NotFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのページは存在しないか、移動した可能性があります。",
+    "back": "ホームに戻る"
+  },
+  "Careers": {
+    "title": "採用情報",
+    "subtitle": "Careers",
+    "intro": "OTサイエンスは表面処理の現場とともに成長する技術企業です。めっき薬品、貴金属回収、装置設計、研究開発の分野で、ともに学び、ともに創る仲間をお待ちしています。",
+    "valuesTitle": "私たちの働き方",
+    "valuesEn": "How we work",
+    "values": [
+      {
+        "title": "人とは違うように、より良く",
+        "desc": "現場の課題を自分の目で見て、新しい方法を探す人を尊重します。"
+      },
+      {
+        "title": "活気ある企業文化",
+        "desc": "小さくても強い組織では、一人ひとりの役割と成長がそのまま会社の成長になります。"
+      },
+      {
+        "title": "健全な100年企業",
+        "desc": "短期的な成果よりも、長く一緒に働ける安定した職場を目指します。"
+      }
+    ],
+    "fieldsTitle": "募集分野",
+    "fieldsEn": "Fields",
+    "fields": [
+      {
+        "title": "研究開発",
+        "desc": "めっき添加剤の開発、分析（ICP-OES・SEM・HPLCなど）、工程試験"
+      },
+      {
+        "title": "生産・品質",
+        "desc": "薬品製造、貴金属回収工程の運営、ISO 9001品質管理"
+      },
+      {
+        "title": "技術営業",
+        "desc": "国内外のめっき企業への製品提案、現場技術サポート、海外輸出"
+      },
+      {
+        "title": "設計・製作",
+        "desc": "部分めっき治具、アノード、ウェハーバンプめっき装置の設計・製作"
+      }
+    ],
+    "processTitle": "採用プロセス",
+    "processEn": "Process",
+    "process": [
+      {
+        "title": "書類応募",
+        "desc": "履歴書と職務経歴書をメールでお送りください。"
+      },
+      {
+        "title": "面接",
+        "desc": "実務面接と代表面接を行います。"
+      },
+      {
+        "title": "内定",
+        "desc": "待遇を協議のうえ入社日を調整します。"
+      }
+    ],
+    "openingsTitle": "募集中の求人",
+    "openingsEn": "Open positions",
+    "noOpenings": "現在募集中の求人はありません。",
+    "noOpeningsDesc": "随時応募を受け付けています。ご希望の分野と履歴書をメールでお送りいただければ、確認のうえご連絡します。",
+    "department": "部署",
+    "type": "雇用形態",
+    "location": "勤務地",
+    "deadline": "締切",
+    "always": "随時採用",
+    "apply": "応募する",
+    "applySubject": "[応募] OT SCIENCE",
+    "ctaTitle": "一緒に働きませんか？",
+    "ctaDesc": "履歴書を下記のメールアドレスにお送りください。勤務地は韓国・京畿道華城市麻道面の本社です。",
+    "ctaButton": "メールで応募する"
+  }
+}
