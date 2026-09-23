@@ -40,9 +40,8 @@ jobs:
             echo "NEXT_PUBLIC_BASE_PATH=/${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
           fi
 
+      # Pages must be enabled once in the repo: Settings → Pages → Source: GitHub Actions
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Build
         env:
